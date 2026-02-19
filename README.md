@@ -22,7 +22,12 @@ To study the effectiveness of CAPTCHA systems when faced with modern AI models a
 - Python  
 - Vision-Language Models (VLMs)  
 - Image Processing  
-- Machine Learning  
+- Machine Learning
+
+## To run this project a .env file is necessary which should be in the format shown below
+- OPENAI_API_KEY="ADD YOUR OPENAI API KEY HERE"
+
+---
 
 ## NOTE
 - As this project is under patent examination as of now, complete implementation has not been showcased.
